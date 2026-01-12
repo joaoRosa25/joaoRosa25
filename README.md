@@ -2,11 +2,6 @@
 - ⚡ Studying 
 - 🥇 Winner of ACM & xSTF - CTF 2025 
 
-<!---
-jfcr25/jfcr25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=jfcr25&show_icons=true&theme=dark"
@@ -16,7 +11,6 @@ You can click the Preview link to take a look at your changes.
     srcset="https://github-readme-stats.vercel.app/api?username=jfcr25&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=jfcr25&show_icons=true" />
 </picture>
 
 <div style="display: inline_block"><br>
