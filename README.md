@@ -29,8 +29,8 @@
 </a><br>
  <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/jo%C3%A3o-rosa-7b8348325/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-João%20Rosa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+    <img src="https://img.shields.io/badge/LinkedIn-João%20Rosa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 
   
 </div>
