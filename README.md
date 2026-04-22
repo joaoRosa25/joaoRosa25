@@ -8,7 +8,7 @@
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://www.linkedin.com/in/jo%C3%A3o-rosa-7b8348325/&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=jfcr25&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
 </picture>
