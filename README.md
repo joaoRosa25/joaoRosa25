@@ -1,6 +1,8 @@
 - 👋 Hi   
 - ⚡ Studying 
-- 🥇 Winner of ACM & xSTF - CTF 2025 
+- 🥇 Winner of ACM & xSTF - CTF 2025
+- 🥇 Winner of ACM & xSTF - CTF 2026 
+ 
 
 <picture>
   <source
